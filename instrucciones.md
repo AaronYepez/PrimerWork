@@ -10,11 +10,11 @@ una variación) porque será público y te representará en la comunidad de desa
 ## *¡Felicidades! Ya eres parte de la comunidad de GitHub.* 
 ## **Paso 2: Instala y configura Git en tu computadora**
 Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora. 
-1. Descarga Git: Ve a [git-scm.com/downloads](https://git-scm.com/downloads) y descarga el instalador para tu sistema operativo 
+1. *Descarga Git*: Ve a [git-scm.com/downloads](https://git-scm.com/downloads) y descarga el instalador para tu sistema operativo 
 (Windows, macOS o Linux). 
-2. Instala Git: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las 
+2. *Instala Git*: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las 
 opciones predeterminadas. 
-3. Configura tu identidad en Git: Es crucial que Git sepa quién eres cuando haces cambios. Abre tu 
+3. *Configura tu identidad en Git*: Es crucial que Git sepa quién eres cuando haces cambios. Abre tu 
 Terminal  y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:  
 ```
    git config --global user.name "Tu Nombre Completo"
@@ -66,16 +66,16 @@ con el nombre de tu repositorio.
 6. Entra a la carpeta del proyecto:  
 7. cd mi-primer-proyecto-prepa 
 Ahora estás dentro de la carpeta local de tu repositorio. 
-Conceptos clave que acabas de usar: 
-• Repositorio (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
-• Rama (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
+### **Conceptos clave que acabas de usar:** 
+• *Repositorio* (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
+• *Rama* (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
 proyecto. En proyectos más grandes, se usan múltiples ramas para trabajar en paralelo. 
-• Commit: Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo. 
-• Clonar (clone): Descargar una copia de un repositorio remoto a tu computadora. 
-• Push: Enviar tus cambios confirmados desde tu repositorio local a GitHub. 
-• Pull: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando 
+• *Commit*: Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo. 
+• *Clonar* (clone): Descargar una copia de un repositorio remoto a tu computadora. 
+• *Push*: Enviar tus cambios confirmados desde tu repositorio local a GitHub. 
+• *Pull*: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando 
 colabores). 
-• README.md: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown 
+• *README.md*: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown 
 para darle formato. 
-• .gitignore: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear 
+• *.gitignore*: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear 
 (ej. archivo
