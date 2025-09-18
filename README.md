@@ -1,4 +1,5 @@
 - # Datos Personales
+- ![Shrek](https://github.com/AaronYepez/PrimerWork/blob/main/yepeto.jpg?raw=true)
 - **Aaron Yepez Mendez**
 - **Me gusta el color rojo**
 - **21/04/2008**
@@ -15,4 +16,6 @@
 - *Conocimientos basicos de Python*
 - *Manejo de bases de datos con MongoDB y PhP my admin y Compass*
 - ### Su Hijo triunfo Mama
-
+-![fre](https://github.com/AaronYepez/PrimerWork/blob/main/fre.jpg?raw=true)
+-![fif](https://github.com/AaronYepez/PrimerWork/blob/main/fif.jpg?raw=true)
+-![call](https://github.com/AaronYepez/PrimerWork/blob/main/call.jpg?raw=true)
