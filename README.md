@@ -1,2 +1,18 @@
-# PrimerWork
-Creando tu cuenta y tu primer repositorio
+# Datos Personales
+**Aaron Yepez Mendez**
+**Me gusta el color rojo**
+**21/04/2008**
+**17**
+**Cetis 61**
+**Programador**
+**Calle Cemento 1231**
+**656 460 01 07**
+**23308060610451@cetis61.edu.mx**
+## Especialidades
+*Programacion en Java*
+*Paginas web en JavaScript*
+*Bootrstrap y React*
+*Conocimientos basicos de Python*
+*Manejo de bases de datos con MongoDB y PhP my admin y Compass*
+### Su Hijo triunfo Mama
+
