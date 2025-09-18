@@ -16,12 +16,16 @@ Git es la herramienta que te permitirá interactuar con GitHub desde tu computad
 opciones predeterminadas. 
 3. Configura tu identidad en Git: Es crucial que Git sepa quién eres cuando haces cambios. Abre tu 
 Terminal  y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:  
-4. git config --global user.name "Tu Nombre Completo" 
-5. git config --global user.email "tu.email@ejemplo.com" 
+```
+   git config --global user.name "Tu Nombre Completo"
+   git config --global user.email "tu.email@ejemplo.com"
+   ```
 o El --global significa que esta configuración se aplicará a todos tus proyectos en esta 
 computadora. Git almacenará esto en un archivo llamado .gitconfig. 
-6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:  
-7. git config --global --list 
+6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta: 
+```
+7. git config --global --list
+```
 Deberías ver tu nombre de usuario y correo electrónico en la lista. 
 Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!) 
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
