@@ -2,7 +2,7 @@
 ### *Sigue estos pasos cuidadosamente:*
 ## **Paso 1: Crea tu cuenta de GitHub**
 1. Ve al sitio web: Abre tu navegador y visita [GitHub.com](GitHub.com) 
-2. Regístrate: Busca y haz clic en el botón "Sign up" o "Registrarse". 
+2. Regístrate: Busca y haz clic en el botón **"Sign up"** o **"Registrarse"**. 
 3. Completa la información: Te pedirá un correo electrónico, una contraseña y un nombre de usuario.  
 o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o 
 una variación) porque será público y te representará en la comunidad de desarrolladores. 
