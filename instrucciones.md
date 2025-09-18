@@ -27,7 +27,7 @@ computadora. Git almacenará esto en un archivo llamado .gitconfig.
 7. git config --global --list
 ```
 Deberías ver tu nombre de usuario y correo electrónico en la lista. 
-Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!) 
+## **Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)** 
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
 1. Inicia sesión en GitHub: Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
 2. Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
