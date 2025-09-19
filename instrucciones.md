@@ -27,12 +27,12 @@ computadora. Git almacenará esto en un archivo llamado .gitconfig.
 7. git config --global --list
 ```
 Deberías ver tu nombre de usuario y correo electrónico en la lista. 
-## **Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)** 
+  ## **Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)** 
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
-1. Inicia sesión en GitHub: Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
-2. Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
+- 1. Inicia sesión en GitHub: Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
+- 2. Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
 "New repository" (Nuevo repositorio). 
-3. Completa los detalles del repositorio:  
+- 3. Completa los detalles del repositorio:  
 o Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
 proyecto-prepa. 
 o Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
@@ -42,14 +42,14 @@ potencialmente contribuir (¡excelente para tu portafolio!), o "Private" (Privad
 mantenerlo solo para ti. 
 o Initialize this repository with: Marca la casilla "Add a README file". El archivo 
 README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre. 
-4. Crea el repositorio: Haz clic en el botón verde "Create repository". 
-5. Modifica el archivo README.md: Añade tus datos generales y una foto tuya, la información debe 
+- 4. Crea el repositorio: Haz clic en el botón verde "Create repository". 
+- 5. Modifica el archivo README.md: Añade tus datos generales y una foto tuya, la información debe 
 de estar en formato markdown. 
-6. Crea un nuevo archivo llamado instrucciones.md: Copia toda la información de esta actividad al 
+- 6. Crea un nuevo archivo llamado instrucciones.md: Copia toda la información de esta actividad al 
 archivo en formato markdown. 
-¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y 
-el archivo instrucciones.md que acabas de generar. 
-Paso 4: Clona tu repositorio en tu computadora 
+### **¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y 
+el archivo instrucciones.md que acabas de generar.** 
+## **Paso 4: Clona tu repositorio en tu computadora**
 Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente. 
 1. En la página de tu repositorio en GitHub: Busca el botón verde "Code" y haz clic en él. 
 2. Copia la URL HTTPS: Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente 
@@ -67,15 +67,16 @@ con el nombre de tu repositorio.
 7. cd mi-primer-proyecto-prepa 
 Ahora estás dentro de la carpeta local de tu repositorio. 
 ### **Conceptos clave que acabas de usar:** 
-- • *Repositorio* (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
-- • *Rama* (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
+-  *Repositorio* (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
+-  *Rama* (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
 proyecto. En proyectos más grandes, se usan múltiples ramas para trabajar en paralelo. 
-- • *Commit*: Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo. 
-- • *Clonar* (clone): Descargar una copia de un repositorio remoto a tu computadora. 
-- • *Push*: Enviar tus cambios confirmados desde tu repositorio local a GitHub. 
-- • *Pull*: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando 
+-  *Commit*: Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo. 
+-  *Clonar* (clone): Descargar una copia de un repositorio remoto a tu computadora. 
+-  *Push*: Enviar tus cambios confirmados desde tu repositorio local a GitHub. 
+-  *Pull*: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando 
 colabores). 
- - • *README.md*: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown 
+ -  *README.md*: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown 
 para darle formato. 
-- • *.gitignore*: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear 
+-  *.gitignore*: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear 
 (ej. archivo
+---
