@@ -27,6 +27,7 @@ computadora. Git almacenará esto en un archivo llamado .gitconfig.
 7. git config --global --list
 ```
 Deberías ver tu nombre de usuario y correo electrónico en la lista. 
+---
   ## **Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)** 
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
 1. **Inicia sesión en GitHub**: Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
@@ -49,16 +50,7 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 - archivo en formato markdown. 
 ### *¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y*
 ### *el archivo instrucciones.md que acabas de generar.* 
-                 ## **Paso 4: Clona tu repositorio en tu computadora**
-*Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente.*
-1. **En la página de tu repositorio en GitHub**: Busca el botón verde "Code" y haz clic en él. 
-  2. **Copia la URL HTTPS**: Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente 
-  hay un icono para copiar al portapapeles). 
-    3. **Abre tu Terminal**: En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos 
-    (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd 
-    Documents/Projects. 
-       4. **Clona el repositorio**: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL 
-       que copiaste:
+---
 ```
         git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
 ```
@@ -69,6 +61,37 @@ con el nombre de tu repositorio.
    7. **Entra a la carpeta del proyecto**: 
     8. **cd mi-primer-proyecto-prepa** 
     *Ahora estás dentro de la carpeta local de tu repositorio*.
+---
+---
+
+## **Paso 4: Clona tu repositorio en tu computadora**
+
+*Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente.*
+
+1. **En la página de tu repositorio en GitHub**: Busca el botón verde "Code" y haz clic en él.
+ 2. **Copia la URL HTTPS**: Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente 
+  hay un icono para copiar al portapapeles).
+3. **Abre tu Terminal**: En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos 
+   (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd 
+   Documents/Projects.
+4. **Clona el repositorio**: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL 
+   que copiaste:  
+
+   ```bash
+   git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
+   ```
+   Este comando 
+   descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta 
+   con el nombre de tu repositorio. 
+
+5. Entra a la carpeta del proyecto:  
+
+   ```bash
+   cd mi-primer-proyecto-prepa
+   ```
+   Ahora estás dentro de la carpeta local de tu repositorio. 
+
+---
 ---
 ### **Conceptos clave que acabas de usar:** 
 -  *Repositorio* (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
