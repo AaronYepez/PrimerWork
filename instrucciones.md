@@ -21,7 +21,7 @@
    git config --global user.email "tu.email@ejemplo.com"
    ```
 o El --global significa que esta configuración se aplicará a todos tus proyectos en esta 
-computadora. Git almacenará esto en un archivo llamado .gitconfig. 
+computadora. Git almacenará esto en un archivo llamado `.gitconfig.` 
 6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta: 
 ```
 7. git config --global --list
@@ -34,7 +34,7 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 2. **Crea un nuevo repositorio**: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
 - "New repository" (Nuevo repositorio). 
 3. **Completa los detalles del repositorio**:  
--Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
+- Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
 - proyecto-prepa. 
  o Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
 - ejemplo para aprender Git y GitHub"). 
