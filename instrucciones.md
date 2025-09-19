@@ -63,9 +63,9 @@ que copiaste:
 (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando 
 descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta 
 con el nombre de tu repositorio. 
-6. Entra a la carpeta del proyecto:  
-7. cd mi-primer-proyecto-prepa 
-Ahora estás dentro de la carpeta local de tu repositorio. 
+6. **Entra a la carpeta del proyecto**:  
+7. **cd mi-primer-proyecto-prepa** 
+*Ahora estás dentro de la carpeta local de tu repositorio*. 
 ### **Conceptos clave que acabas de usar:** 
 -  *Repositorio* (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
 -  *Rama* (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
