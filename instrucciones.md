@@ -48,7 +48,7 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 6. **Crea un nuevo archivo llamado instrucciones**.md: Copia toda la información de esta actividad al 
 - archivo en formato markdown. 
 ### *¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y*
-*el archivo instrucciones.md que acabas de generar.* 
+### *el archivo instrucciones.md que acabas de generar.* 
 ## **Paso 4: Clona tu repositorio en tu computadora**
 Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente. 
 1. **En la página de tu repositorio en GitHub**: Busca el botón verde "Code" y haz clic en él. 
