@@ -1,21 +1,21 @@
-# Creando tu cuenta y tu primer repositorio
-### *Sigue estos pasos cuidadosamente:*
+ # Creando tu cuenta y tu primer repositorio
+  ### *Sigue estos pasos cuidadosamente:*
 ## **Paso 1: Crea tu cuenta de GitHub**
-1. Ve al sitio web: Abre tu navegador y visita [GitHub.com](https://github.com/)
-2. Regístrate: Busca y haz clic en el botón **"Sign up"** o **"Registrarse"**. 
-3. Completa la información: Te pedirá un correo electrónico, una contraseña y un nombre de usuario.  
-o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o 
-una variación) porque será público y te representará en la comunidad de desarrolladores. 
-4. Verifica tu cuenta: Sigue las instrucciones para verificar tu correo electrónico. 
-## *¡Felicidades! Ya eres parte de la comunidad de GitHub.* 
-## **Paso 2: Instala y configura Git en tu computadora**
-Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora. 
-1. *Descarga Git*: Ve a [git-scm.com/downloads](https://git-scm.com/downloads) y descarga el instalador para tu sistema operativo 
-(Windows, macOS o Linux). 
-2. *Instala Git*: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las 
-opciones predeterminadas. 
-3. *Configura tu identidad en Git*: Es crucial que Git sepa quién eres cuando haces cambios. Abre tu 
-Terminal  y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:  
+  1. Ve al sitio web: Abre tu navegador y visita [GitHub.com](https://github.com/)
+   2. Regístrate: Busca y haz clic en el botón **"Sign up"** o **"Registrarse"**. 
+    3. Completa la información: Te pedirá un correo electrónico, una contraseña y un nombre de usuario.  
+    o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o 
+    una variación) porque será público y te representará en la comunidad de desarrolladores. 
+         4. Verifica tu cuenta: Sigue las instrucciones para verificar tu correo electrónico. 
+      ## *¡Felicidades! Ya eres parte de la comunidad de GitHub.* 
+  ## **Paso 2: Instala y configura Git en tu computadora**
+ *Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora.* 
+ 1. *Descarga Git*: Ve a [git-scm.com/downloads](https://git-scm.com/downloads) y descarga el instalador para tu sistema operativo 
+ (Windows, macOS o Linux). 
+   2. *Instala Git*: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las 
+   opciones predeterminadas. 
+ 3. *Configura tu identidad en Git*: Es crucial que Git sepa quién eres cuando haces cambios. Abre tu 
+ Terminal  y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:  
 ```
    git config --global user.name "Tu Nombre Completo"
    git config --global user.email "tu.email@ejemplo.com"
@@ -49,23 +49,27 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 - archivo en formato markdown. 
 ### *¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y*
 ### *el archivo instrucciones.md que acabas de generar.* 
-## **Paso 4: Clona tu repositorio en tu computadora**
-Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente. 
+                 ## **Paso 4: Clona tu repositorio en tu computadora**
+*Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente.*
 1. **En la página de tu repositorio en GitHub**: Busca el botón verde "Code" y haz clic en él. 
-2. **Copia la URL HTTPS**: Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente 
-hay un icono para copiar al portapapeles). 
-3. **Abre tu Terminal**: En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos 
-(ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd 
-Documents/Projects. 
-4. **Clona el repositorio**: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL 
-que copiaste:  
-5. **git clone** [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO](https://github.com/AaronYepez/PrimerWork/tree/main) 
+  2. **Copia la URL HTTPS**: Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente 
+  hay un icono para copiar al portapapeles). 
+    3. **Abre tu Terminal**: En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos 
+    (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd 
+    Documents/Projects. 
+       4. **Clona el repositorio**: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL 
+       que copiaste:
+```
+        git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
+```
+6. **git clone** [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO](https://github.com/AaronYepez/PrimerWork/tree/main) 
 (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando 
 descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta 
 con el nombre de tu repositorio. 
-6. **Entra a la carpeta del proyecto**: 
-7. **cd mi-primer-proyecto-prepa** 
-*Ahora estás dentro de la carpeta local de tu repositorio*. 
+   7. **Entra a la carpeta del proyecto**: 
+    8. **cd mi-primer-proyecto-prepa** 
+    *Ahora estás dentro de la carpeta local de tu repositorio*.
+---
 ### **Conceptos clave que acabas de usar:** 
 -  *Repositorio* (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
 -  *Rama* (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
