@@ -51,17 +51,6 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 ### *¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y*
 ### *el archivo instrucciones.md que acabas de generar.* 
 ---
-```
-        git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
-```
-6. **git clone** [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO](https://github.com/AaronYepez/PrimerWork/tree/main) 
-(Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando 
-descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta 
-con el nombre de tu repositorio. 
-   7. **Entra a la carpeta del proyecto**: 
-    8. **cd mi-primer-proyecto-prepa** 
-    *Ahora estás dentro de la carpeta local de tu repositorio*.
----
 ---
 
 ## **Paso 4: Clona tu repositorio en tu computadora**
@@ -80,16 +69,16 @@ con el nombre de tu repositorio.
    ```bash
    git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
    ```
-   Este comando 
-   descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta 
-   con el nombre de tu repositorio. 
+   *Este comando descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta* 
+   *con el nombre de tu repositorio.* 
 
-5. Entra a la carpeta del proyecto:  
+5. **Entra a la carpeta del proyecto**:  
 
    ```bash
    cd mi-primer-proyecto-prepa
    ```
-   Ahora estás dentro de la carpeta local de tu repositorio. 
+   *Ahora estás dentro de la carpeta local de tu repositorio.*
+   6. **git clone** [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO](https://github.com/AaronYepez/PrimerWork/tree/main) 
 
 ---
 ---
