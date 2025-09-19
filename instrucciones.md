@@ -51,7 +51,6 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 ### *¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y*
 ### *el archivo instrucciones.md que acabas de generar.* 
 ---
----
 
 ## **Paso 4: Clona tu repositorio en tu computadora**
 
@@ -80,7 +79,7 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
    *Ahora estás dentro de la carpeta local de tu repositorio.*
    6. **git clone** [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO](https://github.com/AaronYepez/PrimerWork/tree/main) 
 
----
+
 ---
 ### **Conceptos clave que acabas de usar:** 
 -  *Repositorio* (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
